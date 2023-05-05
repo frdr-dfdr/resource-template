@@ -2,7 +2,7 @@
 
 Materials for the McMaster Research Software workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://mcmaster-rs.githib.io/<<enter_site_url>>) with GitHub Pages.  
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://mcmasterrs.github.io/<<enter_site_url>>) with GitHub Pages.  
 
 Contributions by the following individuals: 
 - Workshop content created by << ENTER NAME(S) HERE >>  
