@@ -1,10 +1,10 @@
-title: RSD Workshop Title # *** Enter workshop title here
-github_repo_url: "" # ***Enter workshop URL (in github pages) here
+title: RSD Learning Module Title # *** Enter learning module title here
+github_repo_url: "" # ***Enter learning module URL (in github pages) here
 gh_edit_repository: "" #*** ENTER the github URL for your repo
 
-subtitle: "Research Software Development Workshop Subtitle"
-favicon_ico: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/favicon.ico"
-nav_footer_logo_bottom: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/logo.png"
+subtitle: "Research Software Development Learning Module Subtitle"
+favicon_ico: "https://raw.githubusercontent.com/McMasterRS/learning_module-template/main/assets/img/favicon.ico"
+nav_footer_logo_bottom: "https://raw.githubusercontent.com/McMasterRS/learning_module-template/main/assets/img/logo.png"
 nav_footer_logo_bottom_href: "https://research.mcmaster.ca/home/support-for-researchers/research-resources/research-software-development/"
 nav_footer_logo_top: ""
 nav_footer_logo_top_href: ""
