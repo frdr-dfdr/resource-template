@@ -1,4 +1,4 @@
-# << ENTER LEARNIG MODULE NAME HERE >>
+# << ENTER LEARNING MODULE NAME HERE >>
 
 Materials for the McMaster Research Software learning module: **<<  ENTER LEARNING MODULE NAME HERE  >> **  
 
