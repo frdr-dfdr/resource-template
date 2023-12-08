@@ -8,4 +8,4 @@ services:
       - .:/usr/src/app
     stdin_open: true
     tty: true
-    command: bundle exec jekyll serve -H 0.0.0.0 -t
+    command: bundle exec jekyll serve -H 0.0.0.0 -t --config _config.yml,_config_dev.yml
