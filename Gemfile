@@ -10,3 +10,4 @@ gem "html-proofer", "~> 5.0", :group => :development
 gem "jekyll-remote-theme"
 gem "rake"
 gem 'jekyll-relative-links'
+gem 'jekyll-multiple-languages-plugin'

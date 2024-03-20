@@ -1,0 +1,22 @@
+site:
+  language: "Français"
+  title: "FRDR Resource Title"
+  back_to_top: "Back to top"
+  logo:
+    bottom:
+      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo.png"
+      href: "https://www.frdr-dfdr.ca/repo/"
+    top:
+      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/alliance_logo.png"
+      href: "https://alliancecan.ca/en"
+footer:
+  subtitle: ""
+  attribution: "Brought to you by the FRDR service team."
+  license: "This work is licensed under a "
+  modified: "Site last modified: "
+  edit: "View this content on GitHub"
+search:
+  prompt: "Search the website"
+pages:
+  introduction: "Introduction"
+  outline: "Outline"
