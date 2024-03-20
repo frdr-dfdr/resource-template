@@ -7,8 +7,10 @@ subtitle: footer.subtitle # *** Optional message that appears in the footer. Add
 favicon_ico: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/favicon.ico"
 nav_footer_logo_bottom: site.logo.bottom.file 
 nav_footer_logo_bottom_href: site.logo.bottom.href 
+nav_footer_logo_bottom_alt: site.logo.bottom.alt
 nav_footer_logo_top: site.logo.top.file
 nav_footer_logo_top_href: site.logo.bottom.href 
+nav_footer_logo_top_alt: site.logo.top.alt
 
 #  _____       _   _   _          _      _                            
 # | ____|   __| | (_) | |_       / \    | |__     ___   __   __   ___ 
