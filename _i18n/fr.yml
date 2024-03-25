@@ -4,11 +4,11 @@ site:
   back_to_top: "Retour en haut de page"
   logo:
     top:
-      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo-fr.png"
+      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/fr/logo-fr.png"
       href: "https://www.frdr-dfdr.ca/repo/?locale=fr"
       alt: "Dépôt fédéré de données de recherche"
     bottom:
-      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/alliance_logo-fr.png"
+      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/fr/alliance_logo-fr.png"
       href: "https://alliancecan.ca/fr"
       alt: "Alliance de recherche numérique du Canada"
 footer:
