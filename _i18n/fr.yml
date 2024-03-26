@@ -2,6 +2,7 @@ site:
   language: "English"
   title: "Titre de la ressource DFDR"
   back_to_top: "Retour en haut de page"
+  toc: "Table des matières"
   logo:
     top:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/fr/logo-fr.png"
