@@ -1,3 +1,11 @@
+# !! Important !!
+
+**After creating a new repo with this template, enable GitHub Pages by following the steps below: (only needs to be done once)**
+
+- Under your repository name, click Settings. If you cannot see the "Settings" tab, select the dropdown menu, then click Settings.
+
+- In the "Code and automation" section of the sidebar, click Pages. - Under "Build and deployment", under "Source", select GitHub Actions.
+
 # << ENTER RESOURCE NAME HERE >>
 
 Materials for the FRDR service team resource: **<< ENTER RESOURCE NAME HERE >>**
