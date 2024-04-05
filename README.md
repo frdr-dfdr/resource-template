@@ -6,6 +6,8 @@
 
 - In the "Code and automation" section of the sidebar, click Pages. - Under "Build and deployment", under "Source", select GitHub Actions.
 
+- Feel free to remove everything under the Important section in this README file after completing these steps.
+
 # << ENTER RESOURCE NAME HERE >>
 
 Materials for the FRDR service team resource: **<< ENTER RESOURCE NAME HERE >>**
