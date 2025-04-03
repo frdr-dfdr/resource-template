@@ -7,7 +7,7 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 
 gem "html-proofer", "~> 5.0", :group => :development
 
-gem "rexml", ">= 3.3.6"
+gem "rexml", ">= 3.3.9"
 gem "nokogiri", ">= 1.18.4"
 
 gem "jekyll-remote-theme"
